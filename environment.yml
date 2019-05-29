@@ -2,11 +2,13 @@ name: ThinkBayes2
 
 dependencies:
   - python=3.7
+  - jupyter
   - numpy
   - matplotlib
   - pandas
   - scipy
   - networkx
+  - pip
   - pip:
     - thinkbayes2
 
